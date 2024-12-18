@@ -7,6 +7,24 @@
 - Process transactions to detect suspicious activity.
 - Save flagged and processed transactions for further analysis.
 
+## **Pipeline Flow**
+
+```mermaid
+flowchart TD
+    Producer[Producer: Simulate Transactions] --> Kafka[Kafka: Message Broker]
+    Kafka --> Consumer[Consumer: Process Transactions]
+    Consumer --> Flags[Flag Suspicious Transactions]
+    Flags --> Save[Save Results to CSV]
+
+    style Producer fill:#2C3E50,stroke:#34495E,stroke-width:1px,color:#ECF0F1
+    style Kafka fill:#3B4D61,stroke:#34495E,stroke-width:1px,color:#ECF0F1
+    style Consumer fill:#2F4F4F,stroke:#34495E,stroke-width:1px,color:#ECF0F1
+    style Flags fill:#34495E,stroke:#34495E,stroke-width:1px,color:#ECF0F1
+    style Save fill:#1D8348,stroke:#117A65,stroke-width:1px,color:#ECF0F1
+
+
+```
+
 
 ## **Overview**
 

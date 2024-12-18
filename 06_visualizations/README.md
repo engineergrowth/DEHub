@@ -9,7 +9,6 @@ Use Python libraries like **Matplotlib** and **Seaborn** to validate your data o
 
 **Resource**: [Matplotlib Official Tutorial](https://matplotlib.org/stable/tutorials/index.html)
 
----
 
 ### 📈 Simple Dashboards  
 Connect your processed data to tools like **Metabase** or **Google Data Studio** to create basic dashboards:  
@@ -17,8 +16,6 @@ Connect your processed data to tools like **Metabase** or **Google Data Studio**
 - Share dashboards to showcase your pipelines.  
 
 **Resource**: [Metabase Documentation](https://www.metabase.com/docs/latest/)
-
----
 
 ### 🌟 Interactive Dashboards with Streamlit  
 Leverage **Streamlit** to create lightweight, interactive dashboards:  
@@ -29,14 +26,6 @@ Leverage **Streamlit** to create lightweight, interactive dashboards:
 
 **Resource**: [Streamlit Documentation](https://docs.streamlit.io/)
 
----
-
-### 🔍 SQL Reporting  
-Some tools like **BigQuery** allow you to visualize data directly from SQL queries:  
-- Use `GROUP BY` and `HAVING` to aggregate and summarize data.  
-- Check out [BigQuery Visual Explorer](https://cloud.google.com/bigquery/docs/visualization-tools).
-
----
 
 ## **Next: Writing Good Documentation**  
 Learn how to write clean, understandable documentation and commit messages to make your projects shine.
