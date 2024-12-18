@@ -40,9 +40,6 @@ def generate_flags(transaction):
         t for t in USER_TRANSACTION_HISTORY[user_id] if current_time - t <= TIME_WINDOW
     ]
 
-    # Debugging: Log the number of recent transactions for this user
-    print(f"User {user_id} has {len(USER_TRANSACTION_HISTORY[user_id])} transactions in the last {TIME_WINDOW} seconds.")
-
     # Flag high-frequency transactions
     if len(USER_TRANSACTION_HISTORY[user_id]) > TRANSACTION_THRESHOLD:
         flags.append('rapid_transactions')

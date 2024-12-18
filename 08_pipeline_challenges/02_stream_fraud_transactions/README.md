@@ -179,7 +179,6 @@ In this step, you will install Docker and Docker Compose, then use `docker-compo
 - `flags`: List of flags (e.g., `high_amount`, `suspicious_location`).
 - `processed_at`: Time when the transaction was processed.
 
----
 
 ## **🚀 Bonus Challenges**
 
@@ -191,6 +190,3 @@ In this step, you will install Docker and Docker Compose, then use `docker-compo
 
 3. **Data Visualization**:
    - Use Python (e.g., Matplotlib, Seaborn) to visualize flagged transactions.
-
-
-
