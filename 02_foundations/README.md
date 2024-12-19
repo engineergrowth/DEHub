@@ -33,8 +33,8 @@ A data warehouse is a centralized repository for storing large volumes of struct
 🌟 **Resources:**  
 - 📚 <a href="https://www.ibm.com/topics/data-warehouse" target="_blank" rel="noopener noreferrer">Data Warehousing Basics (IBM)</a>  
   *An introduction to data warehousing concepts and benefits.*  
-- 🎥 <a href="https://www.youtube.com/watch?v=ItW82ZCTYFs" target="_blank" rel="noopener noreferrer">Intro to Data Warehousing (YouTube)</a>  
-  *A concise video explaining the fundamentals of data warehousing.*  
+- 🎥 <a href="https://www.youtube.com/watch?v=AHR_7jFCMeY" target="_blank" rel="noopener noreferrer">What is a Data Warehouse? (YouTube)</a>  
+  *A concise 4-min video explaining the fundamentals of data warehousing.*  
 
 ---
 
@@ -50,7 +50,7 @@ Big data refers to datasets that are too large or complex for traditional system
 🌟 **Resources:**  
 - 📝 <a href="https://www.oracle.com/big-data/what-is-big-data/" target="_blank" rel="noopener noreferrer">What is Big Data? (Oracle)</a>  
   *An overview of big data and its key characteristics.*  
-- 🎥 <a href="https://www.youtube.com/watch?v=-ks4fE3dBLg" target="_blank" rel="noopener noreferrer">Big Data Concepts (YouTube)</a>  
+- 🎥 <a href="https://www.youtube.com/watch?v=bAyrObl7TYE" target="_blank" rel="noopener noreferrer">Big Data in 5 Minutes (YouTube)</a>  
   *A beginner-friendly explanation of big data and its applications.*  
 - 📚 <a href="https://www.ibm.com/cloud/learn/big-data" target="_blank" rel="noopener noreferrer">Big Data 101 (IBM)</a>  
   *A foundational guide to understanding big data.*  
@@ -67,8 +67,8 @@ Extract, Transform, Load (ETL) and Extract, Load, Transform (ELT) are two common
 🌟 **Resources:**  
 - 📝 <a href="https://blog.fivetran.com/etl-vs-elt" target="_blank" rel="noopener noreferrer">ETL vs. ELT (Fivetran Blog)</a>  
   *A comparison of ETL and ELT workflows, highlighting their differences and use cases.*  
-- 🎥 <a href="https://www.youtube.com/watch?v=8JJ101D3knE" target="_blank" rel="noopener noreferrer">ETL Process Explained (YouTube)</a>  
-  *An overview of the ETL process with visual examples.*  
+- 🎥 <a href="https://www.youtube.com/watch?v=8JJ101D3knE" target="_blank" rel="noopener noreferrer">What is ITL (YouTube)</a>  
+  *An overview of the ETL process from IBM with visual examples.*  
 
 ---
 
@@ -82,8 +82,8 @@ Data governance ensures that data is high-quality, secure, and compliant with re
 🌟 **Resources:**  
 - 📝 <a href="https://www.talend.com/resources/what-is-data-governance/" target="_blank" rel="noopener noreferrer">What is Data Governance? (Talend)</a>  
   *An introduction to data governance and its importance.*  
-- 🎥 <a href="https://www.youtube.com/watch?v=U1zRa2XisZk" target="_blank" rel="noopener noreferrer">Data Governance Basics (YouTube)</a>  
-  *A concise video explaining data governance principles.*  
+- 🎥 <a href="https://www.youtube.com/watch?v=U1zRa2XisZk" target="_blank" rel="noopener noreferrer">Data Governance in 5 Minutes(YouTube)</a>  
+  *A concise video from IBM on Data Governance foundations.*  
 
 ---
 

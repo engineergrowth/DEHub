@@ -7,7 +7,7 @@ These challenges are designed to help you build confidence in **data engineering
 
 ## **How These Challenges Work**
 
-1. **🗺️ Guided, But Not Hand-Holding**  
+1. **🗺️ Guided with Room for Exploration**  
    - Each challenge provides a clear objective and a set of tasks, but I won’t provide every line of code or configuration.
    - Your job is to figure out the "how" by researching, reading documentation, and applying what you learn.
 
