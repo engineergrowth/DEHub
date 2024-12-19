@@ -41,13 +41,15 @@ A data warehouse is a centralized repository for storing large volumes of struct
 
 🌟 **Key Concepts:**  
 - **OLAP vs. OLTP:** Differences between analytical and transactional systems.  
-- **Data Marts:** Smaller, specialized subsets of data warehouses.  
+- **Data Marts:** Smaller, specialized subsets of data warehouses.   
 
 🌟 **Resources:**  
 - 📚 <a href="https://www.ibm.com/topics/data-warehouse" target="_blank" rel="noopener noreferrer">Data Warehousing Basics (IBM)</a>  
   *An introduction to data warehousing concepts and benefits.*  
 - 🎥 <a href="https://www.youtube.com/watch?v=AHR_7jFCMeY" target="_blank" rel="noopener noreferrer">What is a Data Warehouse? (YouTube)</a>  
-  *A concise 4-min video explaining the fundamentals of data warehousing.*  
+  *A concise 4-min video explaining the fundamentals of data warehousing.* 
+- 🎥 <a href="https://www.youtube.com/watch?v=-bSkREem8dM" target="_blank" rel="noopener noreferrer">Database vs Data Warehouse vs Data Lake (YouTube)</a>  
+  *A helpful explanation by Alex The Analyst comparing these three storage solutions.*   
 
 ---
 
