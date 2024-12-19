@@ -3,15 +3,27 @@
 Before diving into SQL, Python, and pipelines, it’s essential to understand the foundational concepts of data engineering. These topics form the basis of data storage, processing, and transformation. Mastering them will set you up for success as you progress in your data engineering journey. 🚀  
 
 ---
-
 ## **📚 Learn**  
 
 ### **1. Database Design**  
 Organizing data into structured tables and defining relationships is a core part of data engineering. Understanding database design helps ensure efficient data storage and retrieval.  
+*(Note: Some of these database design courses are very long and detailed. Below are suggestions on what to focus on, depending on your goals.)*
 
 🌟 **Key Concepts:**  
 - **Normalization:** Breaking data into smaller tables to reduce redundancy.  
 - **Schema Design:** Structuring data logically to meet specific use cases.  
+
+### **What to Focus On**
+- **If You’re Just Getting Started**:  
+  - Learn the basics of **normalization** and why it matters. Focus on 1NF, 2NF, and 3NF—these will cover most beginner needs.  
+  - Watch the first 20–30 minutes of a video to understand schema basics.  
+
+- **If You’re Building a Project**:  
+  - Focus on schema design for your specific use case (e.g., star vs. snowflake schema for analytics).  
+  - Skip normalization theory unless your project demands highly optimized data structures.  
+
+- **If You Want In-Depth Knowledge**:  
+  - Work through a full course to understand advanced topics like indexing, denormalization, and database optimization.  
 
 🌟 **Resources:**  
 - 📝 <a href="https://www.guru99.com/database-normalization.html" target="_blank" rel="noopener noreferrer">Normalization Explained (Guru99)</a>  
@@ -20,6 +32,7 @@ Organizing data into structured tables and defining relationships is a core part
   *A detailed course covering relational database design and management.*  
 - 🎥 <a href="https://www.youtube.com/watch?v=DUHOSFoYK7o&list=PL1LIXLIF50uURxYXfBCaAXDzSdZlQiESy&index=1" target="_blank" rel="noopener noreferrer">Database Design and Management (YouTube)</a>  
   *A YouTube series focused on schema creation and design best practices.*  
+
 
 ---
 
@@ -46,6 +59,8 @@ Big data refers to datasets that are too large or complex for traditional system
   - **Batch Processing:** Processing large amounts of data at once (e.g., nightly jobs).  
   - **Streaming Processing:** Real-time data flow and analysis (e.g., live dashboards).  
 - **The Three V's:** Volume, Velocity, and Variety.  (Some frameworks expand this to include Veracity (data trustworthiness) and Value (business usefulness) as well.) 
+- **Data Lakehouses:** Combining the best of data lakes and data warehouses to handle big data effectively.  
+
 
 🌟 **Resources:**  
 - 📝 <a href="https://www.oracle.com/big-data/what-is-big-data/" target="_blank" rel="noopener noreferrer">What is Big Data? (Oracle)</a>  
@@ -54,6 +69,8 @@ Big data refers to datasets that are too large or complex for traditional system
   *A beginner-friendly explanation of big data and its applications.*  
 - 📚 <a href="https://www.ibm.com/cloud/learn/big-data" target="_blank" rel="noopener noreferrer">Big Data 101 (IBM)</a>  
   *A foundational guide to understanding big data.*  
+ 🎥 <a href="https://www.youtube.com/watch?v=Enu-EH7RHHM" target="_blank" rel="noopener noreferrer">Data Lakehouses Explained (YouTube)</a>  
+  *A 5-min video from IBM explaining what data lakehouses are and how they solve big data challenges.*  
 
 ---
 
