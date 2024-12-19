@@ -14,11 +14,11 @@ Organizing data into structured tables and defining relationships is a core part
 - **Schema Design:** Structuring data logically to meet specific use cases.  
 
 🌟 **Resources:**  
-- 📝 [Normalization Explained (Guru99)](https://www.guru99.com/database-normalization.html)  
+- 📝 <a href="https://www.guru99.com/database-normalization.html" target="_blank" rel="noopener noreferrer">Normalization Explained (Guru99)</a>  
   *An easy-to-understand explanation of normalization concepts.*  
-- 🎥 [Database Design Full Course (YouTube)](https://www.youtube.com/watch?v=ztHopE5Wnpc)  
+- 🎥 <a href="https://www.youtube.com/watch?v=ztHopE5Wnpc" target="_blank" rel="noopener noreferrer">Database Design Full Course (YouTube)</a>  
   *A detailed course covering relational database design and management.*  
-- 🎥 [Database Design and Management (YouTube)](https://www.youtube.com/watch?v=DUHOSFoYK7o&list=PL1LIXLIF50uURxYXfBCaAXDzSdZlQiESy&index=1)  
+- 🎥 <a href="https://www.youtube.com/watch?v=DUHOSFoYK7o&list=PL1LIXLIF50uURxYXfBCaAXDzSdZlQiESy&index=1" target="_blank" rel="noopener noreferrer">Database Design and Management (YouTube)</a>  
   *A YouTube series focused on schema creation and design best practices.*  
 
 ---
@@ -31,9 +31,9 @@ A data warehouse is a centralized repository for storing large volumes of struct
 - **Data Marts:** Smaller, specialized subsets of data warehouses.  
 
 🌟 **Resources:**  
-- 📚 [Data Warehousing Basics (IBM)](https://www.ibm.com/topics/data-warehouse)  
+- 📚 <a href="https://www.ibm.com/topics/data-warehouse" target="_blank" rel="noopener noreferrer">Data Warehousing Basics (IBM)</a>  
   *An introduction to data warehousing concepts and benefits.*  
-- 🎥 [Intro to Data Warehousing (YouTube)](https://www.youtube.com/watch?v=ItW82ZCTYFs)  
+- 🎥 <a href="https://www.youtube.com/watch?v=ItW82ZCTYFs" target="_blank" rel="noopener noreferrer">Intro to Data Warehousing (YouTube)</a>  
   *A concise video explaining the fundamentals of data warehousing.*  
 
 ---
@@ -48,11 +48,11 @@ Big data refers to datasets that are too large or complex for traditional system
 - **The Three V's:** Volume, Velocity, and Variety.  (Some frameworks expand this to include Veracity (data trustworthiness) and Value (business usefulness) as well.) 
 
 🌟 **Resources:**  
-- 📝 [What is Big Data? (Oracle)](https://www.oracle.com/big-data/what-is-big-data/)  
+- 📝 <a href="https://www.oracle.com/big-data/what-is-big-data/" target="_blank" rel="noopener noreferrer">What is Big Data? (Oracle)</a>  
   *An overview of big data and its key characteristics.*  
-- 🎥 [Big Data Concepts (YouTube)](https://www.youtube.com/watch?v=-ks4fE3dBLg)  
+- 🎥 <a href="https://www.youtube.com/watch?v=-ks4fE3dBLg" target="_blank" rel="noopener noreferrer">Big Data Concepts (YouTube)</a>  
   *A beginner-friendly explanation of big data and its applications.*  
-- 📚 [Big Data 101 (IBM)](https://www.ibm.com/cloud/learn/big-data)  
+- 📚 <a href="https://www.ibm.com/cloud/learn/big-data" target="_blank" rel="noopener noreferrer">Big Data 101 (IBM)</a>  
   *A foundational guide to understanding big data.*  
 
 ---
@@ -65,9 +65,9 @@ Extract, Transform, Load (ETL) and Extract, Load, Transform (ELT) are two common
 - **ELT:** Extract → Load → Transform (modern cloud workflows).  
 
 🌟 **Resources:**  
-- 📝 [ETL vs. ELT (Fivetran Blog)](https://blog.fivetran.com/etl-vs-elt)  
+- 📝 <a href="https://blog.fivetran.com/etl-vs-elt" target="_blank" rel="noopener noreferrer">ETL vs. ELT (Fivetran Blog)</a>  
   *A comparison of ETL and ELT workflows, highlighting their differences and use cases.*  
-- 🎥 [ETL Process Explained (YouTube)](https://www.youtube.com/watch?v=8JJ101D3knE)  
+- 🎥 <a href="https://www.youtube.com/watch?v=8JJ101D3knE" target="_blank" rel="noopener noreferrer">ETL Process Explained (YouTube)</a>  
   *An overview of the ETL process with visual examples.*  
 
 ---
@@ -80,9 +80,9 @@ Data governance ensures that data is high-quality, secure, and compliant with re
 - **Data Quality:** Ensuring data is accurate, complete, and reliable.  
 
 🌟 **Resources:**  
-- 📝 [What is Data Governance? (Talend)](https://www.talend.com/resources/what-is-data-governance/)  
+- 📝 <a href="https://www.talend.com/resources/what-is-data-governance/" target="_blank" rel="noopener noreferrer">What is Data Governance? (Talend)</a>  
   *An introduction to data governance and its importance.*  
-- 🎥 [Data Governance Basics (YouTube)](https://www.youtube.com/watch?v=U1zRa2XisZk)  
+- 🎥 <a href="https://www.youtube.com/watch?v=U1zRa2XisZk" target="_blank" rel="noopener noreferrer">Data Governance Basics (YouTube)</a>  
   *A concise video explaining data governance principles.*  
 
 ---

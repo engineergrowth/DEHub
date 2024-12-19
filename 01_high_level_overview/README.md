@@ -12,17 +12,17 @@ Data engineers work on creating pipelines that:
 
 ### 📚 Resources to Understand Data Engineering
 
-- 🖥️ [What is Data Engineering? (DataCamp Free)](https://www.datacamp.com/blog/what-is-data-engineering)  
+- 🖥️ <a href="https://www.datacamp.com/blog/what-is-data-engineering" target="_blank" rel="noopener noreferrer">What is Data Engineering? (DataCamp Free)</a>  
   *A beginner-friendly introduction to the role of a data engineer and the skills required.*  
 
-- 🎥 [A Brief History of Data Engineering | What is Data Engineering? (Youtube)](https://www.youtube.com/watch?v=NmWtdM0vqzY&list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO)  
+- 🎥 <a href="https://www.youtube.com/watch?v=NmWtdM0vqzY&list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO" target="_blank" rel="noopener noreferrer">A Brief History of Data Engineering | What is Data Engineering? (Youtube)</a>  
   *Explore the evolution of data engineering over the past two decades, common job titles, and the future of the industry in this 8-minute video.*  
 
-- 🎓 [Intro to Data Engineering (Udemy)](https://www.udemy.com/course/intro-to-data-engineering)  
+- 🎓 <a href="https://www.udemy.com/course/intro-to-data-engineering" target="_blank" rel="noopener noreferrer">Intro to Data Engineering (Udemy)</a>  
   *(Paid - often on sale, included in Udemy's subscription plan)*  
   *An overview course designed to help you determine if data engineering is the right career for you. Learn fundamental concepts, explore key tools, and discover potential career paths with guidance from an experienced Meta engineer.*  
 
-- 🚀 [Data Engineering Zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/data-engineering-zoomcamp) *(Free Bootcamp)*  
+- 🚀 <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank" rel="noopener noreferrer">Data Engineering Zoomcamp (DataTalksClub)</a> *(Free Bootcamp)*  
   *A beginner-friendly bootcamp designed to introduce practical data engineering concepts. Learn through projects and self-paced lessons while exploring real-world tools and workflows. They have cohorts as well as self-paced options. It's a great way to learn, network, and get help. Recommendation: Learn SQL, Python, & Docker before getting started.*  
 
 ---

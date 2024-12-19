@@ -1,6 +1,6 @@
 # ⚡ **Kafka Fraud Detection Pipeline Challenge**
 
-**Problem**: In today's digital economy, real-time transactions are ubiquitous. However, identifying and responding to suspicious or fraudulent activity in real time is critical for preventing financial losses and maintaining trust.
+**Problem**: In today’s fast-paced digital world, real-time transactions are everywhere. Detecting and addressing suspicious or fraudulent activity as it happens is crucial to prevent financial losses and build customer trust.
 
 **Goal**: Use Kafka to:
 - Simulate real-time transaction data.
@@ -42,7 +42,7 @@ In this step, you will install Docker and Docker Compose, then use `docker-compo
 
 1. **Install Docker**:
    - Follow the official Docker installation guide for your operating system:
-     - [Get Docker](https://www.docker.com/get-started)
+     - <a href="https://www.docker.com/get-started" target="_blank" rel="noopener noreferrer">Get Docker</a>
 
 2. **Verify Docker Installation**:
    - After installing, run the following command to ensure Docker is installed:
@@ -56,7 +56,7 @@ In this step, you will install Docker and Docker Compose, then use `docker-compo
 
 3. **Install Docker Compose**:
    - Docker Compose is included with Docker Desktop on Windows and macOS. For Linux, install Docker Compose using the instructions here:
-     - [Install Docker Compose](https://docs.docker.com/compose/install/)
+     - <a href="https://docs.docker.com/compose/install/" target="_blank" rel="noopener noreferrer">Install Docker Compose</a>
 
 4. **Verify Docker Compose Installation**:
    - Check if Docker Compose is installed:

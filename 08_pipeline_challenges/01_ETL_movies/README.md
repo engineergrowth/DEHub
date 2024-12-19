@@ -27,7 +27,7 @@ flowchart TD
 You have two options to access the dataset:
 
 - **Download from Kaggle**:  
-  [Movies Dataset for Feature Extraction](https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction)
+  <a href="https://www.kaggle.com/datasets/bharatnatrayn/movies-dataset-for-feature-extracion-prediction" target="_blank" rel="noopener noreferrer">Movies Dataset for Feature Extraction</a>
 
 - **Download from the Repo**:  
   The dataset is included in the `datasets` folder in this repository as `movies.csv`.
@@ -72,8 +72,8 @@ You have two options to access the dataset:
 - Save the cleaned dataset as a CSV file.  
 - Upload it to your **own S3 bucket** using the `boto3` library.  
 - Use a `.env` file to securely store your credentials and S3 bucket information.  
-- New to AWS S3? [Get started with Amazon S3 here](https://aws.amazon.com/s3/getting-started/).
-- Alternatively, you can load the dataset to a [sqlite database](https://www.geeksforgeeks.org/python-sqlite/).
+- New to AWS S3? <a href="https://aws.amazon.com/s3/getting-started/" target="_blank" rel="noopener noreferrer">Get started with Amazon S3 here</a>.
+- Alternatively, you can load the dataset to a <a href="https://www.geeksforgeeks.org/python-sqlite/" target="_blank" rel="noopener noreferrer">sqlite database</a>.
 
 ## 🏆 **Bonus Challenge** (Optional)
 

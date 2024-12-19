@@ -7,7 +7,7 @@ Use Python libraries like **Matplotlib** and **Seaborn** to validate your data o
 - Plot histograms to check data distributions.  
 - Use line graphs for trends over time.  
 
-**Resource**: [Matplotlib Official Tutorial](https://matplotlib.org/stable/tutorials/index.html)
+**Resource**: <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank" rel="noopener noreferrer">Matplotlib Official Tutorial</a>
 
 
 ### 📈 Simple Dashboards  
@@ -15,7 +15,7 @@ Connect your processed data to tools like **Metabase** or **Google Data Studio**
 - Build quick visual summaries.  
 - Share dashboards to showcase your pipelines.  
 
-**Resource**: [Metabase Documentation](https://www.metabase.com/docs/latest/)
+**Resource**: <a href="https://www.metabase.com/docs/latest/" target="_blank" rel="noopener noreferrer">Metabase Documentation</a>
 
 ### 🌟 Interactive Dashboards with Streamlit  
 Leverage **Streamlit** to create lightweight, interactive dashboards:  
@@ -24,7 +24,7 @@ Leverage **Streamlit** to create lightweight, interactive dashboards:
   - Share results easily with stakeholders through a simple web interface.  
   - Make your portfolio projects shine.
 
-**Resource**: [Streamlit Documentation](https://docs.streamlit.io/)
+**Resource**: <a href="https://docs.streamlit.io/" target="_blank" rel="noopener noreferrer">Streamlit Documentation</a>
 
 
 ## **Next: Writing Good Documentation**  
