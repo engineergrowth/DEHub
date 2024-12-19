@@ -13,7 +13,7 @@ Start by building a solid foundation in SQL with these beginner-friendly and adv
   *A beginner-friendly introduction to SQL syntax and basic commands.*  
 - 🧠 <a href="https://sqlzoo.net/" target="_blank" rel="noopener noreferrer">SQLZoo: Interactive SQL Practice</a>   
   *Practice SQL concepts interactively with quizzes and guided problems.*  
-- 🎥 <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY" target="_blank" rel="noopener noreferrer">FreeCodeCamp: Full SQL Course for Beginners</a>   
+- 🎥 <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY" target="_blank" rel="noopener noreferrer">FreeCodeCamp: Full Database Course for Beginners</a>   
   *4.5-hour video SQL course starting from the basics and progressing to intermediate concepts.*  
 - 📊 <a href="https://www.kaggle.com/learn/intro-to-sql" target="_blank" rel="noopener noreferrer">Kaggle SQL Lessons</a>  
   *Practice writing SQL queries on real-world datasets with Kaggle’s hands-on lessons.*  
