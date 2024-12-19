@@ -44,8 +44,7 @@ Data engineers turn raw data into reliable, usable formats by building pipelines
 ---
 
 <p align="center">
-  <span style="margin-right: 40px;">← <a href="../README.md">Main Page</a></span>
-  <span style="margin-left: 40px;"><a href="../02_foundations/README.md">Next: Foundational Knowledge </a>→</span>
+<a href="../02_foundations/README.md">Next: Foundational Knowledge </a>→
 </p>
 
 

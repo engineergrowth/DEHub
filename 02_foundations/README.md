@@ -99,6 +99,5 @@ If you're new to foundational concepts, follow these steps to get started:
 ---
 
 <p align="center">  
-  <span style="margin-right: 40px;">← <a href="../01_high_level_overview/README.md">High Level Overview</a></span>  
-  <span style="margin-left: 40px;"><a href="../03_SQL/README.md">SQL</a> →</span>  
+<a href="../03_SQL/README.md">Next: SQL</a> →
 </p>  

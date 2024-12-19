@@ -6,6 +6,7 @@ SQL is a core skill for any data engineer. Below are some curated resources to h
 
 ## **📚 Learn**  
 Start by building a solid foundation in SQL with these beginner-friendly and advanced resources:  
+
 - 📖 <a href="https://mode.com/sql-tutorial/" target="_blank" rel="noopener noreferrer">Mode Analytics SQL Tutorials</a>  
   *Explore SQL concepts from basics to advanced topics like window functions and query optimization, all with interactive examples.*  
 - 🌟 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noopener noreferrer">W3Schools SQL Tutorial</a>  
@@ -14,13 +15,14 @@ Start by building a solid foundation in SQL with these beginner-friendly and adv
   *Practice SQL concepts interactively with quizzes and guided problems.*  
 - 🎥 <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY" target="_blank" rel="noopener noreferrer">FreeCodeCamp: Full SQL Course for Beginners</a>   
   *4.5-hour video SQL course starting from the basics and progressing to intermediate concepts.*  
-- 📊 <a href="https://www.kaggle.com/learn/intro-to-sql" target="_blank" rel="noopener noreferrer">Kaggle SQL Lessons</a> 
+- 📊 <a href="https://www.kaggle.com/learn/intro-to-sql" target="_blank" rel="noopener noreferrer">Kaggle SQL Lessons</a>  
   *Practice writing SQL queries on real-world datasets with Kaggle’s hands-on lessons.*  
 - 🎓 <a href="https://www.tutorialspoint.com/sql/index.htm" target="_blank" rel="noopener noreferrer">SQL Tutorial by TutorialsPoint</a>  
-  *Detailed explanations and examples covering SQL from beginner to advanced levels.* 
+  *Detailed explanations and examples covering SQL from beginner to advanced levels.*  
+- 💻 <a href="https://www.codecademy.com/courses/learn-sql/" target="_blank" rel="noopener noreferrer">Codecademy: Learn SQL</a> *(Free)*  
+  *Interactive SQL lessons covering everything you need to get started.*  
 - 🚀 <a href="https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql" target="_blank" rel="noopener noreferrer">DataCamp Associate Data Engineer in SQL Track</a> *(Paid - Free 3 months with GitHub Student Developer Pack)*  
   *Structured courses for improving SQL skills with bite-sized lessons and exercises.*  
-
 
 ---
 
@@ -53,4 +55,6 @@ SQL is a foundational skill for any data engineering role. Follow these steps to
 
 ---
 
-
+<p align="center">
+<a href="../04_python/README.md">Next: Python </a>→
+</p>

@@ -81,6 +81,5 @@ If you're new to Python, start with these tips:
 ---
 
 <p align="center">  
-  <span style="margin-right: 40px;">← <a href="../02_foundations/README.md">Foundational Knowledge</a></span>  
-  <span style="margin-left: 40px;"><a href="../05_tooling/README.md">Next: Tooling</a> →</span>  
+ <a href="../05_tooling/README.md">Next: Tooling</a> →  
 </p>  

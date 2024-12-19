@@ -36,6 +36,27 @@ From SQL basics to building your first pipelines, learning data engineering has 
 
 ---
 
+### **Important Note About Links**
+
+GitHub’s Markdown viewer doesn’t allow links to open in a new window by default. You have two options to make navigation easier:  
+
+1. **Open Links in a New Tab Manually:**  
+   - On most browsers:  
+     - **Windows/Linux**: Right-click a link and select *"Open link in new tab"* or use `Ctrl + Click`.  
+     - **Mac**: Right-click a link and select *"Open link in new tab"* or use `Cmd + Click`.  
+
+2. **Fork and Clone This Repo Locally:**  
+   - **Why Fork?** Forking the repo allows you to customize it, add your own links/notes, and view the links locally in a Markdown viewer or editor where `target="_blank"` works as expected.  
+   - **How to Fork and Clone:**  
+     - Click the **Fork** button at the top-right of this page to create your own copy.  
+     - Clone your fork to your local machine:  
+       ```bash
+       git clone https://github.com/YOUR_USERNAME/YOUR_FORK.git
+       ```  
+     - Open the README in a Markdown viewer or IDE like **VS Code** and enjoy full hyperlink functionality.
+
+---
+
 ## Personal Recommendations
 
 I’ve made sure that every topic in this repo is covered with free resources so that anyone, no matter their budget, can learn data engineering. That said, if you’re thinking about paying for a learning platform, both DataCamp and Codecademy are awesome options:

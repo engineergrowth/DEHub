@@ -29,3 +29,9 @@ Leverage **Streamlit** to create lightweight, interactive dashboards:
 
 ## **Next: Writing Good Documentation**  
 Learn how to write clean, understandable documentation and commit messages to make your projects shine.
+
+---
+
+<p align="center">  
+ <a href="../07_documentation/README.md">Next: Documentation</a> →  
+</p>  
