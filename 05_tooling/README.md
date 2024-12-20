@@ -1,6 +1,6 @@
 # 🛠️ Data Engineering Tools
 
-I’m still learning, so I’m not qualified to dive into use cases, strengths, or weaknesses for most tools. To create this section, I gathered as many tools as I could and had AI handle a lot of the heavy lifting. Since my time is thin, I wrote a script to check for dead links and replaced any broken ones. If you find any inaccurate links that slipped through, please email me at <a href="mailto:bgeard@wgu.edu">bgeard@wgu.edu</a>.
+I’m still learning, so I’m not qualified to dive into use cases, strengths, or weaknesses for most tools. To create this section, I gathered as many tools as I could and had AI handle a lot of the heavy lifting. I will be adding additional resource links as I incorporate some of these into my personal toolset. Since my time is thin, I wrote a script to check for dead links and replaced any broken ones. If you find any inaccurate links that slipped through, please email me at <a href="mailto:bgeard@wgu.edu">bgeard@wgu.edu</a>.
 
 ---
 
