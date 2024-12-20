@@ -1,3 +1,5 @@
+# NOTE: This is not part of the DEHub content. This is just a 404 checker that I will run periodically to test documentation links.
+
 import requests
 import re
 
@@ -17,5 +19,3 @@ for url in urls:
             print(f"Valid link: {url}")
     except requests.RequestException as e:
         print(f"Error with link: {url} ({e})")
-
-#TODO test broken links 
