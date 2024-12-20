@@ -1,7 +1,6 @@
 ## 📊 High-Level Overview of Data Engineering
 
 Data engineering is all about designing, building, and maintaining systems that turn raw data into something meaningful. It’s the backbone of data science and analytics, making data-driven decisions possible.
-
 Data engineers focus on building pipelines to:
 
 Ingest Data: Gather raw data from sources like APIs, databases, and streaming services.
@@ -44,47 +43,9 @@ Data engineering is about taking messy, raw data and transforming it into someth
 
 ---
 
-<style>
-  .sticky-footer {
-    position: fixed;
-    bottom: 10px;
-    background-color: #f9f9f9;
-    padding: 4px 8px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    z-index: 1000;
-    font-family: Arial, sans-serif;
-    font-size: 12px; 
-  }
-
-  .sticky-footer a {
-    color: #333;
-    font-weight: bold;
-    text-decoration: none;
-  }
-
-  .sticky-footer a:hover {
-    text-decoration: underline;
-  }
-
-  .sticky-footer-left {
-    left: 6px;
-  }
-
-  .sticky-footer-right {
-    right: 6px;
-  }
-</style>
-
-<div class="sticky-footer sticky-footer-left">
-  <a href="../README.md">Previous: Home</a>
-</div>
-
-<div class="sticky-footer sticky-footer-right">
-  <a href="../02_foundations/README.md">Next: Foundations</a>
-</div>
-
+<p align="center">
+<a href="../02_foundations/README.md">Next: Foundational Knowledge </a>→
+</p>
 
 
 

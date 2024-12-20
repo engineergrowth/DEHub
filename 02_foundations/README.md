@@ -134,7 +134,7 @@ If you're new to data engineering, here’s how you can approach the foundationa
 
 3. Big Data
 - Focus on the key concepts of batch vs. streaming data.
-- Understand the Five V’s: Volume, Velocity, Variety, Veracity, and Value.
+Understand the Five V’s: Volume, Velocity, Variety, Veracity, and Value.
 
 ### **4. ETL vs. ELT**  
 - Study the differences between ETL (traditional) and ELT (modern workflows).  
@@ -150,3 +150,8 @@ If you're new to data engineering, here’s how you can approach the foundationa
 </p>  
 
 
+---
+
+<p align="center">  
+<a href="../03_SQL/README.md">Next: SQL</a> →
+</p>  
