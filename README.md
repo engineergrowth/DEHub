@@ -89,9 +89,32 @@ Got suggestions? Let me know!
 
 ---
 
-<p align="center">
-  <span style="margin-left: 40px;"><a href="./01_high_level_overview/README.md">Next: High Level Overview </a>→</span>
-</p>
+<style>
+  .sticky-footer {
+    position: fixed;
+    bottom: 10px;
+    right: 6px;
+    background-color: #f9f9f9;
+    padding: 5px 10px; 
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+    font-size: 12px; /* smaller font size */
+  }
 
+  .sticky-footer a {
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+  }
 
+  .sticky-footer a:hover {
+    text-decoration: underline;
+  }
+</style>
 
+<div class="sticky-footer">
+  <a href="../01_high_level_overview/README.md">Next: High Level Overview</a>
+</div>

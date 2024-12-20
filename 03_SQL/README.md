@@ -4,8 +4,8 @@ SQL is a core skill for any data engineer. Below are some curated resources to h
 
 ---
 
-## **📚 Learn**  
-Start by building a solid foundation in SQL with these beginner-friendly and advanced resources:  
+## **📚 Resources**  
+(**Note: Many of these materials cover similar topics. I’ve included them intentionally to accommodate different learning styles and preferences.**)
 
 - 📖 <a href="https://mode.com/sql-tutorial/" target="_blank" rel="noopener noreferrer">Mode Analytics SQL Tutorials</a>  
   *Explore SQL concepts from basics to advanced topics like window functions and query optimization, all with interactive examples.*  

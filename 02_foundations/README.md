@@ -150,8 +150,3 @@ If you're new to data engineering, here’s how you can approach the foundationa
 </p>  
 
 
----
-
-<p align="center">  
-<a href="../03_SQL/README.md">Next: SQL</a> →
-</p>  

@@ -6,10 +6,11 @@ Python is a must-have skill for any data engineer. It's versatile, beginner-frie
 
 ## **📚 Learn**  
 
-### **1. Python Basics**  
+### **1. Python Basics** 
 Start your Python journey by learning the fundamentals.  
 
 🌟 **Resources:**  
+(**Note:  As with SQL, many of these materials cover similar topics. I recommend exploring and sticking with what resonates best with you.**)
 - 📝 <a href="https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet" target="_blank" rel="noopener noreferrer">Python Cheatsheet (Codecademy Free)</a>  
   *A handy reference for Python basics, including syntax, data types, and functions.*  
 - 🌐 <a href="https://www.learnpython.org/" target="_blank" rel="noopener noreferrer">LearnPython.org</a>  
