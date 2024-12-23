@@ -150,8 +150,3 @@ Understand the Five V’s: Volume, Velocity, Variety, Veracity, and Value.
 </p>  
 
 
----
-
-<p align="center">  
-<a href="../03_SQL/README.md">Next: SQL</a> →
-</p>  

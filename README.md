@@ -1,4 +1,4 @@
-# DEHub: A Comprehensive Data Engineering Resource Hub
+# DEHub: A Comprehensive Data Engineering Resource
 
 A practical guide to understanding data engineering concepts, tools, and workflows.
 
@@ -81,7 +81,7 @@ If you have suggestions, corrections, or ideas for additional topics, please fee
 ## Roadmap
 
 Planned additions to DEHub:
-- 🛠️ More tooling guides as I learn them.
+- 🛠️ More tooling resources as I learn them.
 - 🔗 Additional pipeline challenges.
 - 📚 Expanding foundational knowledge topics.
 
