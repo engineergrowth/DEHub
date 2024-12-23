@@ -120,29 +120,30 @@ Data governance ensures that data is high-quality, secure, and compliant with re
 ---
 
 
-## **💡 Getting Started with Foundational Knowledge**  
+## 💡 Getting Started with Foundational Knowledge  
 
 If you're new to data engineering, here’s how you can approach the foundational concepts:  
 
-### **1. Database Design**  
+### 1. Database Design  
 - Start by understanding schemas, normalization (1NF, 2NF, 3NF), and why they're important.  
 - Watch beginner tutorials and practice designing small databases.  
 
-### **2. Data Warehousing**  
+### 2. Data Warehousing  
 - Learn the differences between OLAP (analytical processing) and OLTP (transactional processing).  
 - Explore the basics of data marts and how they fit into the bigger data warehouse architecture.  
 
-3. Big Data
-- Focus on the key concepts of batch vs. streaming data.
-Understand the Five V’s: Volume, Velocity, Variety, Veracity, and Value.
+### 3. Big Data  
+- Focus on the key concepts of batch vs. streaming data.  
+- Understand the Five V’s: Volume, Velocity, Variety, Veracity, and Value.  
 
-### **4. ETL vs. ELT**  
+### 4. ETL vs. ELT  
 - Study the differences between ETL (traditional) and ELT (modern workflows).  
 - Practice building simple data pipelines to see these concepts in action.  
 
-### **5. Data Governance**  
+### 5. Data Governance  
 - Explore data quality, lineage, and compliance basics.  
-- Learn why governance is crucial for maintaining reliable and secure data.  
+- Learn why governance is crucial for maintaining reliable and secure data.
+
 
 ---  
 <p align="center">  
