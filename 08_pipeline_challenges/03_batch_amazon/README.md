@@ -127,7 +127,7 @@ flowchart TD
 ## 💡 **Expected Output**
 
 1. **BigQuery Raw Table**:
-   - A clean, partitioned raw table in BigQuery containing the unprocessed Kindle reviews data.
+   - A clean raw table in BigQuery containing the unprocessed Kindle reviews data.
 
 2. **BigQuery Processed Tables**:
    - Aggregated insights on:
