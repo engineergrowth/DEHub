@@ -75,5 +75,5 @@ Combine data validation and exploratory analysis with these tools:
 ---
 
 <p align="center">  
-  <a href="../07_documentation/README.md" target="_blank" rel="noopener noreferrer">Next: Documentation</a> →  
+  <a href="../07_projects/README.md" target="_blank" rel="noopener noreferrer">Next: Projects</a> →  
 </p>  

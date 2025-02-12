@@ -32,7 +32,7 @@ From SQL basics to building your first pipelines, learning data engineering has 
    - Check out the <a href="./05_tooling/README.md" target="_blank" rel="noopener noreferrer">Tooling</a> section to learn how to use essential tools like Airflow, dbt, and Kafka.
 
 5. **Build your own pipelines with our projects page**  
-   - Check out our <a href="./08_pipeline_challenges/README.md" target="_blank" rel="noopener noreferrer">Pipeline Projects</a>. These hands-on challenges give you a chance to practice building pipelines and apply everything you’ve learned so far.
+   - Check out our <a href="./07_projects/README.md" target="_blank" rel="noopener noreferrer">Pipeline Projects</a>. These hands-on challenges give you a chance to practice building pipelines and apply everything you’ve learned so far.
 
 ---
 
