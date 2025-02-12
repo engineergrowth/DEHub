@@ -9,7 +9,7 @@ A practical guide to understanding data engineering concepts, tools, and workflo
 This hub is designed to make your data engineering journey smoother, especially if you’re just starting out. It provides:  
 - A clear learning path covering foundational concepts and essential tools.  
 - Carefully selected resources to dive deeper into key techniques and workflows.  
-- Pipeline challenges to test and apply the skills you’ve learned.
+- Pipeline projects to test and apply the skills you’ve learned.
 
 From SQL basics to building your first pipelines, learning data engineering has never been more structured, accessible, and fun. 🚀  
 
@@ -31,8 +31,8 @@ From SQL basics to building your first pipelines, learning data engineering has 
 4. **Master the tools:**  
    - Check out the <a href="./05_tooling/README.md" target="_blank" rel="noopener noreferrer">Tooling</a> section to learn how to use essential tools like Airflow, dbt, and Kafka.
 
-5. **Build your own pipelines in our pipeline challenges:**  
-   - Check out our <a href="./08_pipeline_challenges/README.md" target="_blank" rel="noopener noreferrer">Pipeline Challenges</a>. These hands-on challenges give you a chance to practice building pipelines and apply everything you’ve learned so far.
+5. **Build your own pipelines with our projects page**  
+   - Check out our <a href="./08_pipeline_challenges/README.md" target="_blank" rel="noopener noreferrer">Pipeline Projects</a>. These hands-on challenges give you a chance to practice building pipelines and apply everything you’ve learned so far.
 
 ---
 
@@ -77,13 +77,6 @@ If you have suggestions, corrections, or ideas for additional topics, please fee
 - Share your feedback directly via email at <a href="mailto:bgeard@wgu.edu" target="_blank" rel="noopener noreferrer">bgeard@wgu.edu</a>.
 
 ---
-
-## Roadmap
-
-Planned additions to DEHub:
-- 🛠️ More tooling resources as I learn them.
-- 🔗 Additional pipeline challenges.
-- 📚 Expanding foundational knowledge topics.
 
 Got suggestions? Let me know!
 
